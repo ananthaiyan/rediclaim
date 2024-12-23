@@ -21,7 +21,7 @@ export function Hero() {
             <Button variant="neumorphic" className="px-8 py-4 rounded-xl">
               <span className="flex items-center space-x-3 text-blue-600 font-semibold">
                 <Cloud className="w-6 h-6" />
-                <span>Upload Document</span>
+                <span>Coming Soon!</span>
               </span>
             </Button>
           )}
